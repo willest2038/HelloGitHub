@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
     protected  void myFirstMethod(){
 
     }
+
+    protected  void mySecondMethod(){
+
+    }
 }
